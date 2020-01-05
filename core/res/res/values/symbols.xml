@@ -3944,6 +3944,10 @@
   <java-symbol type="string" name="config_bodyFontFamily" />
   <java-symbol type="string" name="config_bodyFontFamilyMedium" />
 
+  <!-- Light / Regular style fonts -->
+  <java-symbol type="string" name="config_lightFontFamily" />
+  <java-symbol type="string" name="config_regularFontFamily" />
+
   <java-symbol type="drawable" name="stat_sys_vitals" />
 
   <java-symbol type="color" name="text_color_primary" />
